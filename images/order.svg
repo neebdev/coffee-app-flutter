@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="131" height="44" viewBox="0 0 131 44">
+  <g id="Order_Now" data-name="Order Now" transform="translate(-1377 -1028)">
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="131" height="44" rx="10" transform="translate(1377 1028)" fill="#1c1e19"/>
+    <g id="Group_3" data-name="Group 3" transform="translate(1230.579 215)">
+      <text id="Order_Now-2" data-name="Order Now" transform="translate(186 841)" fill="#fff" font-size="15" font-family="Tahoma" letter-spacing="0.017em"><tspan x="0" y="0">Order Now</tspan></text>
+      <g id="cart" transform="translate(140.38 798.148)">
+        <path id="Path_1" data-name="Path 1" d="M34.155,40.685H25.723a.473.473,0,0,1-.307-.153.36.36,0,0,1-.038-.345l.728-1.84-.728-6.86H23.04V30.72h2.683a.408.408,0,0,1,.383.345l.767,7.282a.346.346,0,0,1-.038.192l-.537,1.38h8.24Z" transform="translate(0 0)" fill="#fff"/>
+        <path id="Path_2" data-name="Path 2" d="M54.22,52.6l-.153-.767,8.892-1.84V46.847h-9.2V46.08h9.582a.362.362,0,0,1,.383.383V50.3a.373.373,0,0,1-.307.383Z" transform="translate(-27.654 -13.827)" fill="#fff"/>
+        <path id="Path_3" data-name="Path 3" d="M124.413,125.946a1.533,1.533,0,1,1,1.533-1.533A1.538,1.538,0,0,1,124.413,125.946Zm0-2.3a.767.767,0,1,0,.767.767A.769.769,0,0,0,124.413,123.647Z" transform="translate(-89.875 -82.962)" fill="#fff"/>
+        <path id="Path_4" data-name="Path 4" d="M32.253,125.946a1.533,1.533,0,1,1,1.533-1.533A1.538,1.538,0,0,1,32.253,125.946Zm0-2.3a.767.767,0,1,0,.767.767A.769.769,0,0,0,32.253,123.647Z" transform="translate(-6.913 -82.962)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
